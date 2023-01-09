@@ -1,1 +1,3 @@
-<h1> About Project </h1><lr> <br>
+<h1 align='center'> Recommendation System using Clustering Approach </h1><lr> <br>
+
+<b>
